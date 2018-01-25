@@ -1,0 +1,74 @@
+#Header {
+	border: dotted 8px black; 
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+
+}
+
+#LeftNav {
+	border: dashed 8px black;
+	width: 400px;
+	float: left;
+	text-align: center;
+	list-style-type: none;
+	padding-left: 0px;
+	padding-bottom: 8px;
+}
+
+#Content {
+	border: dashed 8px black;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Footer {
+	border: dotted 8px black;
+	text-align: center;
+	padding-left: 0px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: "Passion one";
+	color: #FFBC00;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 50px;
+	font-family: "passion one";
+	color: #FFBC00;
+	font-weight: bold;
+}
+
+p {
+	font-weight: bold;
+	font-family: "arial";
+	color: white;
+}
+
+div {
+	background-color: #8e41D5;
+}
+
+body {
+	background-color: blue;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+
+
